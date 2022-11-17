@@ -34,4 +34,7 @@ main 29 - break e continue <br>
 main 30 - Parameter, Argument & Value <br>
 main 31 - Variable Scope - Global <br>
 main 32 - Static Variables  <br>
-main 33 - strcmp (string compare)
+main 33 - strcmp (string compare) <br>
+main 34 - Function Pointers <br>
+main 35 - void Pointer <br>
+main 36 - atoi Function 
